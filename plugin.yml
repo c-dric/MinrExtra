@@ -1,0 +1,9 @@
+name: MinrExtra
+main: org.minr.MinrExtra.Extra
+version: 0.0
+author: c_dric
+description: Extras for Minr.org
+commands:
+  minr:
+    description: MinrExtra
+    usage: /<command> <player>
